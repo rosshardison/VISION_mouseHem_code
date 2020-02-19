@@ -5,7 +5,7 @@ Code used in analysis of the Genome Research paper (2020) on the regulatory land
 
 In support of the manuscript "An integrative view of the regulatory and transcriptional landscapes in mouse hematopoiesis" by Guanjue Xiang, Cheryl A. Keller et al., we provide the code for the analyses in this GitHub repository.
 
-The manuscript is under review after re-submission to Genome Research.
+The manuscript has been accepted for publication in Genome Research. A preprint is available on bioRxiv doi: https://doi.org/10.1101/731729
 
 #### The scripts for the analyses in each figures is saved in each of the folder based on the folder name. It was compiled by Guanjue Xiang. Due to the size of the input file, some of the input files are saved in the following link: https://psu.box.com/s/3bmc2zndpm5kiwkinspr7a0chso9u1bm 
 
